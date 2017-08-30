@@ -1,0 +1,19 @@
+{
+  "name": "hello_world",
+  "description": "An advanced hello world plugin for Converse.AI.",
+  "main": "plugin.js",
+  "author": "graeme@converse.ai",
+  "scripts": {
+    "test": "mocha test/plugin-test.js test/**/*-test.js"
+  },
+  "dependencies": {
+    "@converseai/plugins-sdk": "latest"
+  },
+  "devDependencies": {
+    "body-parser": "latest",
+    "chai": "latest",
+    "express": "latest",
+    "mocha": "latest",
+    "supertest": "latest"
+  }
+}
