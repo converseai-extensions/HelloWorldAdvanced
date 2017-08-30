@@ -57,3 +57,8 @@ typings/
 # dotenv environment variables file
 .env
 
+# Converse.AI
+*.tar.*
+app-token.js
+plugin.js
+
