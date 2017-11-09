@@ -7,13 +7,13 @@
     "test": "mocha test/plugin-test.js test/**/*-test.js"
   },
   "dependencies": {
-    "@converseai/plugins-sdk": "latest"
+    "@converseai/plugins-sdk": "^1.0.5"
   },
   "devDependencies": {
-    "body-parser": "latest",
-    "chai": "latest",
-    "express": "latest",
-    "mocha": "latest",
+    "body-parser": "^1.18.2",
+    "chai": "^4.1.2",
+    "express": "^4.16.2",
+    "mocha": "^4.0.1",
     "supertest": "latest"
   }
 }

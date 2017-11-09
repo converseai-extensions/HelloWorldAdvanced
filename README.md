@@ -8,9 +8,8 @@ This is the resulting code for the [Hello World (Advanced)](https://get.converse
 3. Install and Authorize [Converse.AI CLI tool](https://dash.readme.io/project/converseai/v2/docs/converse-ai-cli).
 
 ## Install
-4. Create a project folder
-5. Clone repo into project folder
-6. Initialize extension by running `converse-cli plugin init` from your project root.
-7. Run `npm test` from your project root to ensure everything was initialized correctly.
-8. Deploy the plugin to your Converse.AI account by running `converse-cli deploy` from your project root.
-9. If there are no errors, the plugin should be available under "User" in the left hand menu of the designer.
+4. Clone repo
+5. Initialize extension by running `converse-cli plugin init` from your project root.
+6. Run `npm test` from your project root to ensure everything was initialized correctly.
+7. Deploy the plugin to your Converse.AI account by running `converse-cli deploy` from your project root.
+8. If there are no errors, the plugin should be available under "User" in the left hand menu of the designer.
